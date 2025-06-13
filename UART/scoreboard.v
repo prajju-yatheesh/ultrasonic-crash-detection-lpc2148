@@ -1,3 +1,4 @@
+
 class scoreboard;
   mailbox #(bit [7:0]) mbxds, mbxms;
   
@@ -31,4 +32,3 @@ class scoreboard;
   
   
 endclass
- 
