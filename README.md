@@ -23,6 +23,6 @@ This project is a mini-project developed as part of the Electronics and Communic
 - **Motor Driver**: L293D / relay module
 - **Power Supply**: 5V Regulated (using 7805)
 
-- ![Circuit Diagram]("C:\Users\HP\OneDrive\Desktop\Ultrasonic.png")
+- 
 - 
 
