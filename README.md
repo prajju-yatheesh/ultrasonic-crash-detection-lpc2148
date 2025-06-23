@@ -23,6 +23,6 @@ This project is a mini-project developed as part of the Electronics and Communic
 - **Motor Driver**: L293D / relay module
 - **Power Supply**: 5V Regulated (using 7805)
 
-- [APB RAM Diagram]("C:\Users\HP\OneDrive\Desktop\Ultrasonic.png")
+- ![APB RAM Diagram]("C:\Users\HP\OneDrive\Desktop\Ultrasonic.png")
 - 
 
