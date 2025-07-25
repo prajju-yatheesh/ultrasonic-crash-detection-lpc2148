@@ -22,6 +22,7 @@ This project is a mini-project developed as part of the Electronics and Communic
 - **Sensor**: HC-SR04 Ultrasonic Sensor
 - **Motor Driver**: L293D / relay module
 - **Power Supply**: 5V Regulated (using 7805)
+- **Simulation Tool**: Proteus
 
   
 
